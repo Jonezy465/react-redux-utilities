@@ -1,0 +1,14 @@
+{
+  "name": "react-redux-utilities",
+  "version": "1.0.7",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-redux": "^5.0.1",
+    "redux": "^3.6.0"
+  }
+}
